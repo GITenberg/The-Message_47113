@@ -1,9 +1,13 @@
 _repo: The-Message_47113
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Chase, Joseph Cummings
     gutenberg_agent_id: '44141'
     url: http://www.gutenberg.org/2009/agents/44141
+covers:
+- cover_type: archival
+  image_path: 47113-h/images/cover.jpg
 creator:
   author:
     agent_name: Tracy, Louis
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1627
     wikipedia: http://en.wikipedia.org/wiki/Louis_Tracy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47113#The-Message
 gutenberg_issued: '2014-10-14'
 gutenberg_type: Text
 identifiers:
